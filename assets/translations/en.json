@@ -1,0 +1,11 @@
+{
+	"app_name": "OvesDu",
+	"welcome": "Welcome to OvesDu.\nLet's start our journey?",
+	"language_choise": "You can change the language of the application to any of the suggested ones by selecting it in the scrolling list below",
+	"theme_choise": "You can change the color scheme of the application by clicking on the indicator below",
+	"other_description": "Some more description",
+	"color_description": "Description of the process of choosing a color scheme",
+	"other_info": "Some more information",
+	"change_language": "Change Language",
+	"continue": "Continue"
+}

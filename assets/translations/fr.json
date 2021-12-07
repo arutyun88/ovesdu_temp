@@ -1,0 +1,11 @@
+{
+	"app_name": "OvesDu",
+	"welcome": "Bienvenue.\nCommençons le voyage?",
+	"language_choise": "Vous pouvez changer la langue de l'application en l'une des langues suggérées en la sélectionnant dans la liste déroulante ci-dessous",
+	"theme_choise": "Vous pouvez changer la palette de couleurs de l'application en cliquant sur l'indicateur ci-dessous",
+	"other_description": "Un peu plus de description",
+	"color_description": "Description du processus de choix d'un jeu de couleurs",
+	"other_info": "Quelques informations supplémentaires",
+	"change_language": "Sélectionnez la langue",
+	"continue": "Continuer"
+}
